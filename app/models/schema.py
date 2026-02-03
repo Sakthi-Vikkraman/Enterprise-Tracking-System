@@ -10,9 +10,8 @@ class UserResponse(BaseModel):
     email: EmailStr
 
 class UserRegister(BaseModel):
-    name: str
-    email: EmailStr
     password: str
+    role: str="Employee"
 
 class Token(BaseModel):
     access_token: str

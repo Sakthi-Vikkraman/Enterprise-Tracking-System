@@ -23,6 +23,22 @@ app = FastAPI()
 
 users = []
 
+oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/login")
+
+def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)):
+    try:
+        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+        email = payload.get("sub")
+        return db.query(User).filter(User.email == email).first()
+    except JWTError:
+        raise HTTPException(status_code=401, detail="Invalid token")
+
+def require_role(required_role: str):
+    def role_checker(user=Depends(get_current_user)):
+        if user.role != required_role:
+            raise HTTPException(status_code=403, detail="Forbidden")
+        return user
+    return role_checker
 
 @app.post("/users", response_model=UserResponse)
 def create_user(user: UserCreate, db: Session = Depends(get_db)):
@@ -35,7 +51,7 @@ def create_user(user: UserCreate, db: Session = Depends(get_db)):
 @app.post("/auth/register")
 def register(user: UserRegister, db: Session = Depends(get_db)):
     hashed_pwd = hash_password(user.password)
-    db_user = User(name=user.name, email=user.email, password=hashed_pwd)
+    db_user = User(name=user.name, email=user.email, password=hashed_pwd, role=user.role)
     db.add(db_user)
     db.commit()
     return {"message": "User registered"}
@@ -50,21 +66,16 @@ def login(email: str, password: str, db: Session = Depends(get_db)):
     token = create_access_token({"sub": user.email})
     return {"access_token": token, "token_type": "bearer"}
 
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/auth/login")
 
-def get_current_user(token: str = Depends(oauth2_scheme), db: Session = Depends(get_db)):
-    try:
-        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
-        email = payload.get("sub")
-        return db.query(User).filter(User.email == email).first()
-    except JWTError:
-        raise HTTPException(status_code=401, detail="Invalid token")
-
-
-@app.get("/users", response_model=list[UserResponse])
-def get_users(db: Session = Depends(get_db), user=Depends(get_current_user)):
+@app.get("/admin/users", response_model=list[UserResponse])
+def get_users(db: Session = Depends(get_db), user=Depends(require_role("Admin"))):
     return db.query(User).all()
 
+
+@app.post("/manager/approve/{expense_id}")
+def approve_expense(expense_id: int,
+                     user=Depends(require_role("Manager"))):
+    return {"message": f"Expense {expense_id} approved"}
 
 
 @app.get("/users/{user_id}", response_model=UserResponse)
