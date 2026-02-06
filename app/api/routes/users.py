@@ -1,6 +1,5 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
-
 from schema import UserResponse
 from api.deps import get_db, require_role
 from repositories.user_repo import get_all_users
