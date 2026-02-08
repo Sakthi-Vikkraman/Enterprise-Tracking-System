@@ -18,3 +18,19 @@ class UserRegister(BaseModel):
 class Token(BaseModel):
     access_token: str
     token_type: str
+
+class ExpenseCreate(BaseModel):
+    amount: float
+    category: str
+    description: str
+
+class ExpenseResponse(BaseModel):
+    id: int
+    amount: float
+    category: str
+    description: str
+    status: str
+
+    class config:
+        orm_mode = True
+
