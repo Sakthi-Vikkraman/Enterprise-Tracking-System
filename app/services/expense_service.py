@@ -23,3 +23,6 @@ def reject_expense(db, expense_id):
         raise Exception("Only pending expenses can be rejected")
 
     return expense_repo.update_expense_status(db, expense, "REJECTED")
+
+def get_user_expense_service(db, user_id, status=None, category=None, skip=0, limit=10):
+    return expense_repo.get_filtered_expenses(db, user_id, status, category, skip, limit)

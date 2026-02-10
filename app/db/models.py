@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, Float, String, ForeignKey, DateTime
+from sqlalchemy import Column, Integer, Float, String, ForeignKey, DateTime, Index
 from datetime import datetime
 from .database import Base
 
@@ -21,3 +21,6 @@ class Expense(Base):
     description = Column(String)
     status = Column(String, default="PENDING")
     created_at = Column(DateTime, default=datetime.utcnow)
+
+
+Index("idx_expense_user_status", Expense.user_id, Expense.status)

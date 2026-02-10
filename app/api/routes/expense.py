@@ -1,9 +1,10 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
+
 from schema import ExpenseCreate
 from repositories.expense_repo import get_expenses_by_user
 from api.deps import get_current_user, get_db, require_role
-from services.expense_service import create_user_expense, approve_expense, reject_expense
+from services.expense_service import create_user_expense, approve_expense, reject_expense, get_user_expense_service
 
 router = APIRouter(prefix="/expenses", tags=["Expenses"])
 
@@ -22,3 +23,7 @@ def approve_expense_api(expense_id: int, db: Session = Depends(get_db), user = D
 @router.post("/{expense_id}/reject")
 def reject_expense_api(expense_id: int, db: Session = Depends(get_db), user = Depends(require_role("Admin"))):
     return reject_expense(db, expense_id)
+
+@router.get("/filter")
+def filtered_expense(status: str = None, category: str = None, skip: int =0, limit: int = 10, db:Session = Depends(get_db), user = Depends(get_current_user)):
+    return get_user_expense_service(db, user.id, status, category, skip, limit)

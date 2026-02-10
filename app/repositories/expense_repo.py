@@ -18,3 +18,13 @@ def update_expense_status(db, expense, status):
     db.commit()
     db.refresh(expense)
     return expense
+
+def get_filtered_expenses(db, user_id, status=None, category=None, skip=0, limit=10):
+    query = db.query(Expense).filter(Expense.user_id == user_id)
+    if status:
+        query = query.filter(Expense.status == status)
+    
+    if category:
+        query = query.filter(Expense.category == category)
+
+    return query.offset(skip).limit(limit).all()
