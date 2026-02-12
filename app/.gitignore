@@ -50,6 +50,7 @@ htmlcov/
 test.db         # test databases (if used)
 log.txt
 .cache/
+expenses.json    # generated data file (if you want to exclude it)
 
 # Sensitive files
 .env            # Environment variable files (secrets)

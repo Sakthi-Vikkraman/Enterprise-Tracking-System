@@ -1,0 +1,2502 @@
+[
+  {
+    "amount": 461.0,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 3486.15,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 1906.74,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 796.03,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1108.98,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 1331.92,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 420.06,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 151.11,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 188.44,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 4220.31,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 529.57,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 3682.25,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 914.61,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 1516.2,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 257.36,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1113.77,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 157.56,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 2695.39,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 1219.11,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1352.99,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 908.96,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 4601.09,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 597.07,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 278.52,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 1785.29,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 2646.0,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 984.88,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 385.27,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 134.92,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 1291.51,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 251.42,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 3780.44,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 1029.94,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 2245.97,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 892.84,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 107.78,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 2110.81,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 3372.73,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 235.31,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1300.72,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 900.43,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 97.65,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 591.06,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 586.92,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 1801.11,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 1135.15,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 588.51,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 2370.99,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 2676.47,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 1681.92,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 1805.81,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 241.82,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 2037.07,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 345.9,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1211.34,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 1466.35,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 3645.36,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 1788.46,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 2037.52,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 779.68,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 2533.05,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 2755.09,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 777.27,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1798.64,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 1837.76,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 600.64,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 364.18,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 433.98,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 679.58,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 2186.37,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 312.6,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 462.86,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 992.38,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 2025.86,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 3616.62,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 388.65,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1072.29,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 2342.72,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 1639.51,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 1154.83,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 3186.56,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 1642.59,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 338.28,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 3874.19,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 549.98,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 635.94,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1263.31,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 4253.82,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 1272.46,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 316.8,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 1762.5,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 1098.41,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 1556.57,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 1912.31,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 692.98,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1300.41,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 1963.35,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 1154.2,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 2730.92,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 664.76,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 695.71,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 682.76,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 80.62,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 2019.35,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 257.89,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 666.64,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 406.44,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 799.23,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 3097.01,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 1246.06,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 1576.34,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 581.98,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 1622.45,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 1623.54,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 1114.34,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 266.97,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 809.63,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 962.44,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 1735.44,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 3055.53,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 411.92,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 2336.76,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 2647.86,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 887.37,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 750.76,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 2921.84,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 404.49,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 220.26,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 2352.46,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 754.85,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1158.28,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 1723.56,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 3894.39,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 512.99,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 482.51,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 403.86,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 448.17,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 943.16,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 727.58,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 989.19,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 1597.49,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 315.53,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 813.4,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 1332.24,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 883.72,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 3327.74,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 339.49,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 642.35,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1837.98,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 2019.84,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 824.94,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 1994.0,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 1150.61,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 1376.21,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 750.04,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 835.38,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 512.43,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 544.95,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 1812.26,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 447.95,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 320.82,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 1407.74,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 2373.45,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 1099.29,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 1270.64,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 817.26,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 3407.17,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 3658.84,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 1203.52,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 188.1,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 481.31,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 133.92,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 4971.82,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 656.27,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 1530.74,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 550.52,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 761.33,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 309.27,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1214.17,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 1052.07,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 1586.02,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 713.91,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 755.55,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 1828.83,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 232.6,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 189.47,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 389.18,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 4638.01,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 506.59,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 914.98,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 3602.89,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 2874.3,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 578.76,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 908.65,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 423.58,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 4677.6,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 626.34,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 178.81,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 258.9,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 678.2,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 1451.24,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 664.66,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 66.47,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 691.14,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 1791.58,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 1662.94,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 1965.62,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 135.67,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 2203.81,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 203.83,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 929.19,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 345.19,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 769.04,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2146.2,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 1042.36,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 635.8,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 3023.18,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 360.5,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 689.32,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2634.61,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 1679.78,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 1124.11,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 4633.12,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 1005.98,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 196.75,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 3985.26,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 531.57,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 129.3,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 262.91,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 376.38,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1438.64,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 2923.67,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 1110.35,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 220.03,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 4516.22,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 220.8,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 671.3,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1190.33,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 859.59,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 497.16,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 481.27,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 865.83,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 621.73,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 139.27,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 2309.55,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 291.35,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 207.47,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 701.25,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 537.96,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1123.69,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 689.74,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 413.25,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 150.28,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 189.79,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 598.83,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 332.55,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1673.15,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 4956.02,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 314.49,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 4754.1,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 1188.29,
+    "category": "Health",
+    "description": "Dental visit"
+  },
+  {
+    "amount": 183.95,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2000.57,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 1894.16,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 747.18,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1299.44,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 133.7,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 4959.31,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 356.14,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 331.12,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 107.12,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 259.49,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1020.31,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 4529.28,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 3410.79,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 320.46,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 646.54,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 2010.35,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 1501.52,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 109.98,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 655.96,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 726.9,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 473.18,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 2913.8,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 4827.1,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 4353.66,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 752.26,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 244.4,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2060.35,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 1286.44,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 373.33,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 4039.23,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 747.59,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 727.61,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 3597.81,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 2490.54,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 652.34,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 527.1,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 3398.74,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 669.07,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 567.47,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 526.8,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 2846.15,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 597.6,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 766.78,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1340.85,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 1098.28,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 1557.28,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 1376.65,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 3873.62,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 435.44,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 3334.75,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 491.71,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 2345.9,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 1431.63,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 694.56,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 1076.5,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1161.73,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 432.82,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 377.32,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 587.61,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 3413.81,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 566.82,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 714.07,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 598.87,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 1621.49,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 474.76,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 258.63,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 557.49,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 583.12,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 309.01,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 3362.41,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 106.26,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 1014.06,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 2342.09,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 3935.19,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 2437.66,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 4608.56,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 603.6,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 506.53,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2919.71,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 255.17,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1247.36,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 1389.1,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 1145.98,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 3276.43,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 970.3,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 1817.85,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 786.15,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 2226.6,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 582.26,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 920.83,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 2965.3,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 703.95,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 267.06,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 843.92,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 820.49,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 422.5,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 682.22,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 467.23,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 786.67,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 137.07,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 876.22,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 1313.41,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 221.61,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1303.08,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 1023.16,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 508.55,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 139.73,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1133.29,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 592.4,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 987.5,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1270.68,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 1060.62,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 3484.29,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 683.3,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 304.86,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 587.08,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 684.41,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 490.02,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 288.12,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1410.52,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 448.4,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 2759.05,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 422.14,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1001.6,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 84.74,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 407.51,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 1029.49,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 437.59,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 4557.94,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 1226.2,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 2107.53,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 797.67,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 3552.1,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 752.89,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 773.42,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 611.84,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 2753.99,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 2728.71,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 1626.71,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 2538.35,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 770.97,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 3453.78,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 1422.42,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 2620.54,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 2086.89,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 1243.5,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 3684.07,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 861.6,
+    "category": "Entertainment",
+    "description": "Game purchase"
+  },
+  {
+    "amount": 250.83,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2084.13,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 785.98,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 710.21,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 2859.36,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 2562.1,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 576.59,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 168.55,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 370.91,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 574.52,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 1425.04,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 1532.86,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 4856.7,
+    "category": "Shopping",
+    "description": "Grocery shopping"
+  },
+  {
+    "amount": 1735.82,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 2348.37,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 3492.2,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 1172.17,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 373.5,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 414.07,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 572.78,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 196.38,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 4111.4,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 250.98,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 2223.92,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 984.56,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 3450.22,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 675.43,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 858.17,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 788.88,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 682.01,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 3400.34,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 1361.1,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 628.56,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 138.9,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 287.63,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 1205.42,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 764.57,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 2732.87,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 681.47,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 639.42,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 550.39,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 1753.65,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 4212.87,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 4647.13,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 883.96,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 2410.23,
+    "category": "Bills",
+    "description": "Gas cylinder"
+  },
+  {
+    "amount": 2719.31,
+    "category": "Health",
+    "description": "Pharmacy medicines"
+  },
+  {
+    "amount": 137.66,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 353.4,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1095.27,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 2398.3,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 1006.04,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 222.18,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 146.41,
+    "category": "Food",
+    "description": "Zomato dinner"
+  },
+  {
+    "amount": 3731.22,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 2304.91,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 1768.01,
+    "category": "Entertainment",
+    "description": "Movie ticket"
+  },
+  {
+    "amount": 4998.5,
+    "category": "Shopping",
+    "description": "Electronics purchase"
+  },
+  {
+    "amount": 426.5,
+    "category": "Food",
+    "description": "Restaurant lunch"
+  },
+  {
+    "amount": 1088.16,
+    "category": "Travel",
+    "description": "Auto fare"
+  },
+  {
+    "amount": 3838.8,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 596.33,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 1235.11,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 206.17,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 464.37,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 1370.83,
+    "category": "Shopping",
+    "description": "Clothing store"
+  },
+  {
+    "amount": 680.84,
+    "category": "Food",
+    "description": "Office snacks"
+  },
+  {
+    "amount": 1044.9,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 813.45,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 3938.81,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 1330.38,
+    "category": "Travel",
+    "description": "Bus ticket"
+  },
+  {
+    "amount": 3207.31,
+    "category": "Bills",
+    "description": "Internet bill"
+  },
+  {
+    "amount": 1432.15,
+    "category": "Travel",
+    "description": "Uber ride"
+  },
+  {
+    "amount": 1093.8,
+    "category": "Health",
+    "description": "Health checkup"
+  },
+  {
+    "amount": 1997.6,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 267.74,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 614.4,
+    "category": "Travel",
+    "description": "Petrol refill"
+  },
+  {
+    "amount": 3378.42,
+    "category": "Bills",
+    "description": "Mobile recharge"
+  },
+  {
+    "amount": 552.37,
+    "category": "Food",
+    "description": "Cafe coffee"
+  },
+  {
+    "amount": 187.39,
+    "category": "Travel",
+    "description": "Metro recharge"
+  },
+  {
+    "amount": 1809.74,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 721.01,
+    "category": "Entertainment",
+    "description": "Concert ticket"
+  },
+  {
+    "amount": 3622.89,
+    "category": "Shopping",
+    "description": "Flipkart purchase"
+  },
+  {
+    "amount": 315.45,
+    "category": "Entertainment",
+    "description": "Netflix subscription"
+  },
+  {
+    "amount": 3809.35,
+    "category": "Bills",
+    "description": "Water bill"
+  },
+  {
+    "amount": 4701.29,
+    "category": "Shopping",
+    "description": "Amazon order"
+  },
+  {
+    "amount": 3959.57,
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "amount": 593.84,
+    "category": "Food",
+    "description": "Swiggy order"
+  },
+  {
+    "amount": 2888.71,
+    "category": "Health",
+    "description": "Doctor consultation"
+  },
+  {
+    "amount": 1113.76,
+    "category": "Travel",
+    "description": "Uber ride"
+  }
+]

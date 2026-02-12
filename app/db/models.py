@@ -24,3 +24,5 @@ class Expense(Base):
 
 
 Index("idx_expense_user_status", Expense.user_id, Expense.status)
+Index("idx_expense_category", Expense.category)
+Index("idx_expense_created_at", Expense.created_at)
