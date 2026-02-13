@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, UploadFile, File
+from fastapi import APIRouter, Depends, UploadFile, File, BackgroundTasks
 from sqlalchemy.orm import Session
 
 from schema import ExpenseCreate
@@ -35,3 +35,21 @@ async def upload_expenses(
     current_user = Depends(get_current_user)
 ):
     return await upload_expenses_service(file, db, current_user)
+
+
+def fake_notification(email: str):
+    print(f"Sending expense notification to {email}")
+
+@router.post("/create_notify")
+def create_expense_api(
+    expense: ExpenseCreate,
+    background_tasks: BackgroundTasks,
+    db: Session = Depends(get_db),
+    user = Depends(get_current_user)
+):
+    result = create_user_expense(db, user.id, expense.dict())
+
+    background_tasks.add_task(fake_notification, user.email)
+
+    return result
+
